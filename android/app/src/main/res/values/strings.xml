@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unloop</string>
+    <string name="accessibility_service_description">Unloop can return you to a private urge pause when a distracting app you selected opens. It does not read screen or app content.</string>
+</resources>
